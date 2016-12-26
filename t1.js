@@ -1,4 +1,3 @@
-console.log('데');
-console.log("TOneProject_Result");
+console.log('카데미');
 console.log("");
 
