@@ -1,3 +1,3 @@
-console.log("TOneProject_Result");
+console.log("티");
 console.log("1");
 console.log("");
