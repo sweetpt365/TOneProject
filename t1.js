@@ -1,1 +1,2 @@
-console.log('카');
+console.log('카미');
+console.log("");
